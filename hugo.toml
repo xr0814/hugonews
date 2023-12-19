@@ -2,6 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = '文文家的小可爱'
 theme = 'ananke'
+publishDir = "docs"
 
 [markup]
   [markup.goldmark]
